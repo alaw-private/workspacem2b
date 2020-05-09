@@ -1,3 +1,21 @@
 [submodule "linux"]
 	path = linux
 	url = ./linux
+[submodule "gcc"]
+	path = gcc
+	url = ./gcc
+[submodule "exec"]
+	path = exec
+	url = ./exec
+[submodule "icecream"]
+	path = icecream
+	url = ./icecream/
+[submodule "libarchive"]
+	path = libarchive
+	url = ./libarchive/
+[submodule "libcap-ng"]
+	path = libcap-ng
+	url = ./libcap-ng/
+[submodule "zstd"]
+	path = zstd
+	url = ./zstd/
